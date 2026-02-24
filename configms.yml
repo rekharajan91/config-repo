@@ -1,0 +1,9 @@
+server:
+  port: 8085
+
+spring:
+  application:
+    name: configms
+
+custom:
+  message: Hello from Git Config 🚀
